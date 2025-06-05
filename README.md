@@ -2,6 +2,7 @@
 A recreation of the childhood game Bop-it on the PEB to be handheld/portable.
 Game Rules:
 - Game Objective: Players must react to randomized commands within the time limit to avoid failure.
+- Optimal position: Player should hold device so the switch is closet to their body, make sure board is faced flat and upward.
 - Challenge Duration: Each challenge lasts 5 seconds, but successful completions reduce the time limit by 500ms, making the game progressively harder.
 - Failure Reset: If the player fails a challenge, the time limit resets to 5 seconds and they start over.
 - Commands: The game randomly selects one of four possible actions:
